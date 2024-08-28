@@ -1,0 +1,7 @@
+/.json
+/.snakemake
+/data
+/results
+/scripts
+/snakefile
+/tarea.ipynb
